@@ -1,5 +1,11 @@
-25 .1225 .11 .2 0.5 -spectrum True -tol -6 -Nphot 4 -L 120 -endt 40000 -dt .05 -spec_cutoff 1666 -Om_e 0.01
-26 .1225 .11 .2 0.5 -spectrum True -tol -6 -Nphot 4 -L 140 -endt 40000 -dt .05 -spec_cutoff 1428 -Om_e 0.01
-27 .1225 .11 .2 0.5 -spectrum True -tol -6 -Nphot 4 -L 160 -endt 40000 -dt .05 -spec_cutoff 1250 -Om_e 0.01
-28 .1225 .11 .2 0.5 -spectrum True -tol -6 -Nphot 4 -L 180 -endt 40000 -dt .05 -spec_cutoff 1111 -Om_e 0.01
-29 .1225 .11 .2 0.5 -spectrum True -tol -6 -Nphot 4 -L 200 -endt 40000 -dt .05 -spec_cutoff 1000 -Om_e 0.01
+40 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 190 -endt 40000 -dt .05 -spec_cutoff 1052 -Om_e 0.01
+41 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 200 -endt 40000 -dt .05 -spec_cutoff 1000 -Om_e 0.01
+42 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 210 -endt 40000 -dt .05 -spec_cutoff 952 -Om_e 0.01
+43 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 220 -endt 40000 -dt .05 -spec_cutoff 909 -Om_e 0.01
+44 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 230 -endt 40000 -dt .05 -spec_cutoff 869 -Om_e 0.01
+45 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 240 -endt 40000 -dt .05 -spec_cutoff 833 -Om_e 0.01
+46 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 250 -endt 40000 -dt .05 -spec_cutoff 800 -Om_e 0.01
+47 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 260 -endt 40000 -dt .05 -spec_cutoff 769 -Om_e 0.01
+48 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 270 -endt 40000 -dt .05 -spec_cutoff 740 -Om_e 0.01
+49 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 280 -endt 40000 -dt .05 -spec_cutoff 714 -Om_e 0.01
+50 .1225 .1225 .2 0.5 -spectrum True -tol -5 -Nphot 3 -L 290 -endt 40000 -dt .05 -spec_cutoff 689 -Om_e 0.01
